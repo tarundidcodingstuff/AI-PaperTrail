@@ -159,6 +159,23 @@ L(\theta)=-E[\log p_\theta(y|x)]
 
 and understand what is being optimized and implement it.
 
+Algebra & Functions — equations, functions, logarithms, exponentials, summations.
+Linear Algebra ⭐⭐⭐⭐⭐ — vectors, matrices, tensors, eigenvalues, SVD, projections, norms.
+Calculus ⭐⭐⭐⭐⭐ — derivatives, integrals, chain rule.
+Multivariable Calculus ⭐⭐⭐⭐⭐ — partial derivatives, gradients, Jacobians, Hessians.
+Probability Theory ⭐⭐⭐⭐⭐ — random variables, distributions, expectation, variance, conditional probability, Bayes.
+Statistics ⭐⭐⭐⭐⭐ — estimation, sampling, confidence intervals, hypothesis testing, experimental analysis.
+Information Theory ⭐⭐⭐⭐⭐ — entropy, cross-entropy, KL divergence, mutual information, perplexity.
+Mathematical Optimization ⭐⭐⭐⭐⭐ — gradient descent, SGD, momentum, Adam/AdamW, convexity, constrained optimization.
+Numerical Methods / Numerical Computing ⭐⭐⭐⭐ — floating point, numerical stability, approximation, FP16/BF16, stable softmax/log computations.
+Bayesian Statistics & Bayesian Inference ⭐⭐⭐ — priors, likelihoods, posteriors, MLE/MAP, Gaussian processes, Bayesian optimization.
+Stochastic Processes ⭐⭐⭐⭐ — Markov chains, Markov processes, expectations over trajectories; particularly important for RL.
+Reinforcement Learning Mathematics ⭐⭐⭐⭐⭐ — MDPs, Bellman equations, value functions, policy gradients, importance sampling, advantage estimation.
+Optimization for RL ⭐⭐⭐⭐⭐ — policy gradients, PPO objectives, KL constraints, trust regions, entropy regularization.
+Matrix Calculus ⭐⭐⭐⭐ — derivatives involving vectors/matrices, useful for understanding backpropagation and papers.
+Discrete Mathematics ⭐⭐⭐ — sets, relations, combinatorics, graphs, logic; useful but lower priority for your immediate ML path.
+
+
 ---
 
 # Phase 2 — Become extremely comfortable with PyTorch
