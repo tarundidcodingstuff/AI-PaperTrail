@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=kLJEXE5_7rI&t=451s    - Quant Roadmap
+
 # AI-PaperTrail
 My working log of AI papers, projects, and experiments.
 
